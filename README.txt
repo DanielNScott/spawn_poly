@@ -18,6 +18,6 @@ some_sim        2011        2012            5
 last_sim        2004        2015           -1
 [end of file]
 
-Where opiton1, option2, etc are eg NL%IYEARA, NL%IYEARZ etc.
+Where opiton1, option2, etc are eg iyeara, iyearz etc.
 
 5) Type "python spawn_poly.py" at the command line.
